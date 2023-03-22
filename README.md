@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 💻 Faço curso no senai, sobre desenvolvimento de sistemas...
 - ⚽ Amo esportes, pricipalmente futebol ...
 ## Ferramentas e tecnologia
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
           
