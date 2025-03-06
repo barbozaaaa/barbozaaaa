@@ -1,4 +1,4 @@
-### Boa boa, forte abraço 👋
+### Bem vindo ao meu perfil!! 👋
 
 <!--
 **barbozaaaa/barbozaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
