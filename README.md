@@ -16,15 +16,32 @@
 
 ## 👨‍💻 Sobre mim
 
-```yaml
-nome:       Andrey Luis Barboza
-localização: Brasil
-educação:   Ciência de Dados @ SENAI
-             Desenvolvimento de Sistemas @ SENAI
-foco:       [Data Science, Desenvolvimento Web, Infraestrutura]
-interesses: [Automação, Análise de Dados, Futebol ⚽]
-atualmente: Construindo projetos com Python, React e SQL
-```
+<table>
+  <tr>
+    <td><b>🧑‍💻 Nome</b></td>
+    <td>Andrey Luis Barboza</td>
+  </tr>
+  <tr>
+    <td><b>📍 Localização</b></td>
+    <td>Brasil</td>
+  </tr>
+  <tr>
+    <td><b>🎓 Educação</b></td>
+    <td>Ciência de Dados @ SENAI<br/>Desenvolvimento de Sistemas @ SENAI</td>
+  </tr>
+  <tr>
+    <td><b>🎯 Foco</b></td>
+    <td>Data Science · Desenvolvimento Web · Infraestrutura</td>
+  </tr>
+  <tr>
+    <td><b>💡 Interesses</b></td>
+    <td>Automação · Análise de Dados · Futebol ⚽</td>
+  </tr>
+  <tr>
+    <td><b>🚀 Atualmente</b></td>
+    <td>Construindo projetos com Python, React e SQL</td>
+  </tr>
+</table>
 
 ---
 
