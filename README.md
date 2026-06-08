@@ -16,6 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
+<div align="center">
 <table>
   <tr>
     <td><b>🧑‍💻 Nome</b></td>
@@ -27,7 +28,7 @@
   </tr>
   <tr>
     <td><b>🎓 Educação</b></td>
-    <td>Ciência de Dados @ SENAI<br/>Desenvolvimento de Sistemas @ SENAI</td>
+    <td>Ciência de Dados — SENAI<br/>Desenvolvimento de Sistemas — SENAI</td>
   </tr>
   <tr>
     <td><b>🎯 Foco</b></td>
@@ -35,13 +36,14 @@
   </tr>
   <tr>
     <td><b>💡 Interesses</b></td>
-    <td>Automação · Análise de Dados · Futebol ⚽</td>
+    <td>Automação · Análise de Dados · Full Stack · Programação</td>
   </tr>
   <tr>
     <td><b>🚀 Atualmente</b></td>
     <td>Construindo projetos com Python, React e SQL</td>
   </tr>
 </table>
+</div>
 
 ---
 
