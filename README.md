@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Andrey!+👋;Python+%7C+Data+Science+%7C+Full+Stack;Apaixonado+por+Tecnologia+e+Dados!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Andrey!+%F0%9F%91%8B;Python+%7C+Data+Science+%7C+Full+Stack;Apaixonado+por+Tecnologia+e+Dados!" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/barbozaaaa">
-    <img src="https://img.shields.io/github/followers/barbozaaaa?label=Followers&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/barbozaaaa?tab=followers">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbarbozaaaa&query=followers&label=Followers&style=social&logo=github" alt="GitHub Followers"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=barbozaaaa&color=00bfff&style=flat-square&label=Visitas+no+perfil" alt="Profile Views"/>
